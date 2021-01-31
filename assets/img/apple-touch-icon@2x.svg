@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="360px" viewBox="0 0 360 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>apple-touch-icon@2x</title>
+    <g id="apple-touch-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="360" height="360" rx="27"></rect>
+        <text id="db" font-family="Asap-Regular, Asap" font-size="252" font-weight="normal" letter-spacing="-6.04800024" fill="#000000">
+            <tspan x="10.8" y="199">db</tspan>
+        </text>
+        <text id="FIN" opacity="0.505745821" font-family="Asap-Regular, Asap" font-size="180" font-weight="normal" letter-spacing="-4.32000017" fill="#000000">
+            <tspan x="18.9" y="348">FIN</tspan>
+        </text>
+        <g id="Group" transform="translate(317.700000, 180.000000)">
+            <path d="M0,90.0011968 L42.1282198,90.0011968 L42.1282198,153.002394 C42.1282198,167.914082 30.039908,180.002394 15.1282198,180.002394 L0,180.002394 L0,180.002394 L0,90.0011968 Z" id="Rectangle-Copy-3" fill="#EF0069"></path>
+            <rect id="Rectangle-Copy-5" fill="#EF8E00" x="0" y="0.00239364885" width="42.1282198" height="90.0011968"></rect>
+        </g>
+        <path d="M317.7,-0.00119682443 L332.82822,-0.00119682443 C347.739908,-0.00119682443 359.82822,12.0871149 359.82822,26.9988032 L359.82822,90 L359.82822,90 L317.7,90 L317.7,-0.00119682443 Z" id="Rectangle-Copy-7" fill="#208BBB"></path>
+        <rect id="Rectangle-Copy" fill="#2BFFFF" x="317.7" y="90" width="42.1282198" height="90.0011968"></rect>
+    </g>
+</svg>
